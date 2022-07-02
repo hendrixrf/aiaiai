@@ -1,3 +1,4 @@
 # aiaiai
-Repositorio de Introducción a la Inteligencia Artificial
+Trabajos Prácticos Carrera de Especialización en Inteligencia Artificial
+
 Pablo Gámez
